@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(176, 212, 212);
+}
+
+#par1{
+    color: rgb(22, 2, 48);
+    background-color: orangered;
+    font-size: 26px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#par2{
+    color: green;
+    font-size: 23px;
+    background-color: azure;
+    padding: 10px;
+    text-align: end;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#par3{
+    color: rgb(73, 3, 139);
+    font-size: 30px;
+    background-color: rgb(219, 175, 120);
+    padding: 10px;
+    text-decoration: overline;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-align: center;   
+}
+
+.myparagraph{
+    color: rgb(161, 6, 37);
+    font-size: 24px;
+    background-color: yellow;
+    padding: 12px;
+
+}
+
+.mydiv{
+    color: rgb(5, 5, 83);
+    background-color: rgb(100, 241, 100);
+    font-size: 23px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+}

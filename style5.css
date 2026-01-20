@@ -1,0 +1,34 @@
+#division1{
+    background-color: black;
+    height: 190px;
+}
+
+.division2{
+    background-color: white;
+    height: 20px;
+}
+
+#division3{
+    background-color: red;
+    height: 190px;
+}
+
+#division4{
+    background-color: green;
+    height: 190px;
+}
+
+body{
+    position: relative;
+}
+
+#myshield{
+    width: 300px;
+    height: 400px;
+}
+
+.shield{
+    position: absolute;
+    top: 80px;
+    left: 520px;
+}
